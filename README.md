@@ -17,4 +17,10 @@
 - **Dataset:** House Prices - Advanced Regression Techniques (Kaggle)
 - **Model:** Gradient Boosting Regressor
 - **Features Used:** GrLivArea, BedroomAbvGr, FullBath, YearBuilt, OverallQual, GarageCars, TotalBsmtSF
-- **Key Finding:** OverallQual and GrLivArea are the most important features for predicting house prices.- 
+- **Key Finding:** OverallQual and GrLivArea are the most important features for predicting house prices.-
+- 
+### Task 3: Heart Disease Prediction
+- **Objective:** Predict heart disease risk from health data
+- **Dataset:** Heart Disease UCI Dataset (Kaggle)
+- **Model:** Logistic Regression
+- **Key Finding:** Chest pain type and max heart rate are the most important predictors.
