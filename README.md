@@ -24,3 +24,9 @@
 - **Dataset:** Heart Disease UCI Dataset (Kaggle)
 - **Model:** Logistic Regression
 - **Key Finding:** Chest pain type and max heart rate are the most important predictors.
+
+- ### Task 2: Stock Price Prediction
+- **Objective:** Predict next day's closing price using historical stock data
+- **Dataset:** Apple (AAPL) stock data from Yahoo Finance
+- **Model:** Linear Regression
+- **Key Finding:** Predicted prices closely follow actual prices with high R2 score.
